@@ -1,7 +1,7 @@
-Welcome to My GitHub Profile!! 
+#Welcome to My GitHub Profile!! 
 
-About Me:
-Hey there! I'm Tawsia Rasool, a passionate Software Developer. I love exploring new technologies and building exciting projects. GitHub is my playground where I share my code and collaborate with the developer community.
+##About Me:
+Hey there! I'm Tawsia Rasool, a passionate upcoming Software Developer. I love exploring new technologies and building exciting projects. GitHub is my playground where I share my code and collaborate with the developer community.
 
 - 🔭 I’m currently preparing for my placements.
 - 🌱 I’m currently learning the MERN stack.
