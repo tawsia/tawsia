@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tawsia Rasool</h1>
 <h3 align="center">Aspiring Software Developer | Problem Solver | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" alt="coding gif"/>
+ <p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="woman developer gif"/>
 </p>
 
 ---
