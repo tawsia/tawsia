@@ -20,7 +20,7 @@
 ## 🌐 Portfolio & Resume
 
 - 👨‍💻 Portfolio: [tawsia-rasool1234.netlify.app](https://tawsia-rasool1234.netlify.app/)
-- 📄 Resume: [View Resume](https://drive.google.com/drive/my-drive)
+- 📄 Resume: [View Resume](./Tawsai_Rasool_CV.pdf)
 - 📫 Email: **tawsiarasool32@gmail.com**
 
 ---
