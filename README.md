@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="girl coding"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="350" alt="female developer"/>
 </p>
 
 ---
