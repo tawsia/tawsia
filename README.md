@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tawsia Rasool</h1>
 <h3 align="center">Software Developer | DSA Enthusiast | Consistent Learner</h3>
-
+<p align="center"> <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="350" alt="female developer"/> </p>
 ---
 
 ## 👩‍💻 About Me
