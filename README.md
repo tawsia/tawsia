@@ -1,81 +1,43 @@
 <h1 align="center">Hi 👋, I'm Tawsia Rasool</h1>
-<h3 align="center">Aspiring Software Developer | Problem Solver | Lifelong Learner</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="350" alt="female developer"/>
-</p>
+<h3 align="center">Software Developer | DSA Enthusiast | Consistent Learner</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning **Python, AI, and Data Structures & Algorithms**
-- 💻 Solving **NeetCode 150** for interview preparation
-- 🚀 Building projects and improving problem-solving skills
-- 🎯 Goal: Become a strong Software Developer through consistent practice
-- ⚡ Fun fact: I talk to my hens 🐔 — maybe they secretly give coding advice 😄
+- 🌱 Currently practicing **Data Structures & Algorithms**
+- 💻 Solving **NeetCode 150**
+- ⚡ Writing clean and optimized **C++ solutions**
+- 🚀 Learning Python & Backend Development
+- 🎯 Goal: Crack strong software roles through consistency
 
 ---
 
-## 🌐 Portfolio & Resume
+## 🛠 Tech Stack
 
-- 👨‍💻 Portfolio: [tawsia-rasool1234.netlify.app](https://tawsia-rasool1234.netlify.app/)
-- 📄 Resume: [View Resume](./Tawsai_Rasool_CV.pdf)
-- 📫 Email: **tawsiarasool32@gmail.com**
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://dev.to/https://g.dev/tawsia" target="blank">Dev.to</a> •
-<a href="https://www.linkedin.com/in/tawsia-rasool-038912199/" target="blank">LinkedIn</a> •
-<a href="https://instagram.com/_healing_secret" target="blank">Instagram</a> •
-<a href="https://www.leetcode.com/tawsia32" target="blank">LeetCode</a> •
-<a href="https://auth.geeksforgeeks.org/user/tawsiarasool32" target="blank">GeeksForGeeks</a>
-</p>
+**Languages:** C++, Python, JavaScript  
+**Frontend:** React  
+**Backend:** Node.js  
+**Database:** MongoDB, MySQL, Firebase  
+**Tools:** Git, VS Code  
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawsia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tawsia&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawsia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+---
 
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/tawsia-rasool-038912199/
+- 🧠 LeetCode: https://leetcode.com/tawsia32
+- 📘 GeeksForGeeks: https://auth.geeksforgeeks.org/user/tawsiarasool32
+- 📧 Email: tawsiarasool32@gmail.com
 
 ---
 
-## 🚀 Current Focus
-
-- 📚 Data Structures & Algorithms (NeetCode 150)
-- ⚡ Writing clean and optimized C++ solutions
-- 🧠 Improving problem-solving patterns
-
----
-
-⭐ *“Consistency beats intensity — coding a little every day.”*
+⭐ *Consistency beats intensity — code every day.*
