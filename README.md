@@ -55,17 +55,20 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats  
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tawsia&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tawsia&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tawsia&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=tawsia&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawsia&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawsia&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
